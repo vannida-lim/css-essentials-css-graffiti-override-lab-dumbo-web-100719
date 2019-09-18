@@ -23,7 +23,9 @@
   display: none;
 }
 
-#wall div.parent 
+#wall div.parent #tag-7.slick {
+  display: none;
+}
 
 
 
